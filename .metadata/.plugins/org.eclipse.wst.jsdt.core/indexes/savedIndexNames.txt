@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\Ki 5\Code PBL4\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3274290386.index
+4272584551.index
+1196478348.index
+3858144478.index
+3693755182.index
+1043648630.index
+232051511.index
